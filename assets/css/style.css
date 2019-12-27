@@ -2,10 +2,12 @@ body {
     background-color: grey;
 }
 
-.jumbotron{
+.jumbotron {
     background-image: url("../images/disk.jpg") ;
     background-size: 100% 100%; 
 }
 
 
-
+#container1 {
+    background-color: #e5e5e3;
+}
