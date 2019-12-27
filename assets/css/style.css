@@ -9,10 +9,21 @@ body {
 
 
 #container1 {
-    background-color: #e5e5e3;
+    background-color: #e5e5e3
+    
 }
 
 #block {
+    background-color: grey;
+    color: honeydew;
+    border-radius: 10px;
+}
+
+.container {
+    border-radius: 10px;
+}
+
+#aotw {
     background-color: grey;
     color: honeydew;
     border-radius: 10px;
