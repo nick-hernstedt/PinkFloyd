@@ -74,3 +74,17 @@ p {
     background-color: grey !Important;
     border: solid 1px white;
 }
+
+.card-body {
+    background-color: #e5e5e3;  
+    color: black;
+}
+
+.card {
+    border: solid 1px black;
+}
+
+.btn {
+    color:#e5e5e3;
+}
+
