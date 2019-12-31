@@ -32,9 +32,25 @@ body {
 
 #contactButton {
     width: 80%;
+    height: 25%;
    color: #e5e5e3;
     margin-left: 10%;
+    font-size: 45px;
+    border-radius: 5%;
+    background-color: gray;
+    color: honeydew;
+
 }
+
+#contact1 {
+    height: 1100px;
+}
+
+#contactButton:hover {
+    background-color: black;
+    color: red;
+}
+
 
 #aotw {
     background-color: grey;
@@ -48,9 +64,11 @@ body {
 }
 
 #topName {
-    background-color:  rgb(64, 64, 64);
+    background-color:  grey;
     border-radius: 10%;
-    color: #e5e5e3;
+    color: honeydew;
+    margin-left: 25%;
+    justify-content: center;
 }
 
 p {
@@ -104,7 +122,7 @@ p {
 }
 
 .btn {
-    color:#e5e5e3;
-    background-color: ;
+    color: #e5e5e3;
+    background-color: gray ;
 }
 
