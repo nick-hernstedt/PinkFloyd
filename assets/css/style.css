@@ -14,6 +14,12 @@ body {
     
 }
 
+#contactForm {
+    background-color: #e5e5e3;
+    border-radius: 5%;
+    
+}
+
 #block {
     background-color: grey;
     color: honeydew;
@@ -24,6 +30,12 @@ body {
     border-radius: 10px;
 }
 
+#contactButton {
+    width: 80%;
+   color: #e5e5e3;
+    margin-left: 10%;
+}
+
 #aotw {
     background-color: grey;
     color: honeydew;
@@ -32,6 +44,13 @@ body {
 
 #footer {
     background-color: #e5e5e3;
+    width: 100%;
+}
+
+#topName {
+    background-color:  rgb(64, 64, 64);
+    border-radius: 10%;
+    color: #e5e5e3;
 }
 
 p {
@@ -86,5 +105,6 @@ p {
 
 .btn {
     color:#e5e5e3;
+    background-color: ;
 }
 
