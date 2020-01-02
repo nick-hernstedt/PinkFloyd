@@ -42,6 +42,12 @@ body {
 
 }
 
+.nav-item:hover {
+    color: white !important;
+    background-color: grey;
+    
+}
+
 #contact1 {
     height: 1100px;
 }
