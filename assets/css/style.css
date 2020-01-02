@@ -14,10 +14,25 @@ body {
     
 }
 
+.contactBody {
+    background-image: url("../images/background.png");
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+
+
+
 #contactForm {
     background-color: #e5e5e3;
     border-radius: 5%;
     
+}
+
+#zIndex {
+    z-index: -10;
 }
 
 #block {
@@ -32,7 +47,7 @@ body {
 
 #contactButton {
     width: 80%;
-    height: 25%;
+    height: 20%;
    color: #e5e5e3;
     margin-left: 10%;
     font-size: 45px;
@@ -48,13 +63,12 @@ body {
     
 }
 
-#contact1 {
-    height: 1100px;
-}
+
 
 #contactButton:hover {
-    background-color: black;
-    color: red;
+    background-color: White;
+    color: grey;
+    border: grey solid 4px;
 }
 
 
@@ -73,8 +87,9 @@ body {
     background-color:  grey;
     border-radius: 10%;
     color: honeydew;
-    margin-left: 9%;
+    margin-left: 2%;
     justify-content: center;
+    font-size: 45px;
 }
 
 p {
