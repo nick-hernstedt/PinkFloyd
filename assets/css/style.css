@@ -1,5 +1,6 @@
 body {
     background-color: rgb(64, 64, 64);
+    
 }
 
 .jumbotron {
@@ -14,14 +15,7 @@ body {
     
 }
 
-.contactBody {
-    background-image: url("../images/background.png");
-    background-size:100%;
-    background-repeat: repeat-y;
-    background-attachment: fixed;
-    height:100%;
-    width:100%;
-}
+
 
 
 
@@ -43,6 +37,17 @@ body {
 
 .container {
     border-radius: 10px;
+  
+
+}
+
+#contactContainer {
+    background-image:url("../images/Pink-Floyd-Albums1.jpg");
+    background-size:100%;
+    background-repeat: repeat-y;
+   
+    height:100%;
+    width:100%;
 }
 
 #contactButton {
