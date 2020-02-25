@@ -8,6 +8,8 @@ This is a pink floyd fan page. It does the following:
 - provides the user with album information
 - has ways to play music from your chosen album
 - provides detailed information about the album of the week
+##
+![Image description](./assets/images/floyd.png)
 
 ## Upcoming features
 - meet the band page
